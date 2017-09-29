@@ -22,4 +22,4 @@ Where *v* is the verlocity and $g = 9.8m/s^2$ is the acceleration due to gravity
  
 </br>代入(1.8)式中
  
-</br>
+</br>![4](https://github.com/kammmmmi/photos/blob/master/1.png)
