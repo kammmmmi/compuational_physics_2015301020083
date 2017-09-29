@@ -14,7 +14,7 @@ Where *v* is the verlocity and $g = 9.8m/s^2$ is the acceleration due to gravity
  
 由题意得 
 
-![123](https://github.com/kammmmmi/photos/blob/master/LC28FG%7D1%7B(6UIS%7DWZGZ0N%7BM.png)
+![123](https://github.com/kammmmmi/photos/blob/master/%25NEA%60ULA1GW%5BFWC0FN_R~5W.png)
  
 对其泰勒展开
  
