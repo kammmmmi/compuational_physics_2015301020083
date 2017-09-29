@@ -23,3 +23,13 @@ Where *v* is the verlocity and $g = 9.8m/s^2$ is the acceleration due to gravity
 </br>代入(1.8)式中
  
 </br>![4](https://github.com/kammmmmi/photos/blob/master/1.png)
+
+### Result
+
+</br>![5](https://github.com/kammmmmi/photos/blob/master/result.png)
+
+We can see the velocity at the time t = 10s is about 9.8m/s.And the analytical result of v is v(t) = -gt + C where C is a constant equals 0.
+</br>So, the last result is v = -9.8t.The symbol "-" means the object moves downward.
+
+</br>Appeared to the numericial approach, our result is quite corresponding.So my work is finished and I can go to bed.
+</br>Good night!
