@@ -63,9 +63,6 @@ def figure(x, y, v_x, v_y, theta):
     y = [0.]
     return None
 plt.figure(figsize=(8,6)) 
-plt.xlabel("x(m)") 
-plt.ylabel("y(m)") 
-plt.legend() 
 figure(x, y, v_x, v_y, 30)
 plt.plot(x,y,label="30",color="green",linewidth=1) 
 figure(x2, y2, v_x2, v_y2, 35)
@@ -78,4 +75,7 @@ figure(x5, y5, v_x5, v_y5, 50)
 plt.plot(x5,y5,label="50",color="yellow",linewidth=1)
 figure(x6, y6, v_x6, v_y6, 55)
 plt.plot(x6,y6,label="55",color="gray",linewidth=1)
+plt.xlabel("x(m)") 
+plt.ylabel("y(m)") 
+plt.legend() 
 plt.show() 
