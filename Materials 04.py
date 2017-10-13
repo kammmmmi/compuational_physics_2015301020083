@@ -52,8 +52,7 @@ def figure(x, y, v_x, v_y, theta):
             k_vy = v_y[i] - g * dt
             k_y = y[i] + v_y[i] * dt
             v_y.append(k_vy)
-            y.append(k_y)
-            t.append(dt * (i + 1))     
+            y.append(k_y)     
             print x[-1], y[-1]
         else:
             pass
