@@ -50,9 +50,9 @@ while time<=300:
                     velocity.append(vx)
                 else:
                     cash3 = vx
-                    char4 = vy
-                    vx = vy
-                    vy = vx
+                    cash4 = vy
+                    vx = cash4
+                    vy = cash3
                     x.append(x[i]+vx*sdt)
                     y.append(y[i]+vy*sdt)
                     velocity.append(vx)
