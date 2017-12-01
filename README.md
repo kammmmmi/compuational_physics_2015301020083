@@ -16,3 +16,5 @@
 - [ ] [pygame](https://github.com/kammmmmi/compuational_physics_2015301020083/tree/master/pygame "pygame")
 - [ ] [Homework 08](http://note.youdao.com/noteshare?id=97482bac31314ee43afe0428ddb333e2 "Homework 08")
 - [ ] [Materials 08](https://github.com/kammmmmi/compuational_physics_2015301020083/blob/master/Materials%2008.py "Materials 08")
+- [ ] [Homework 09](http://note.youdao.com/noteshare?id=97482bac31314ee43afe0428ddb333e2 "Homework 09")
+- [ ] [Materials 09](https://github.com/kammmmmi/compuational_physics_2015301020083/blob/master/Materials%2008.py "Materials 09")
