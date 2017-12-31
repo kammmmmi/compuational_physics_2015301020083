@@ -22,3 +22,5 @@
 - [ ] [Materials 10](https://github.com/kammmmmi/compuational_physics_2015301020083/blob/master/Materials%2010.py "Materials 10")
 - [ ] [Homework 11](http://note.youdao.com/noteshare?id=e53289a050af36076c89d2e7ddc365b7 "Homework 11")
 - [ ] [Materials 11](https://github.com/kammmmmi/compuational_physics_2015301020083/blob/master/Materials%2011.py "Materials 11")
+- [ ] [Final Project](https://github.com/kammmmmi/compuational_physics_2015301020083/blob/master/finalproject.pdf "Final Project")
+- [ ] [Materials 12](https://github.com/kammmmmi/compuational_physics_2015301020083/blob/master/Materials%2012.py "Materials 12")
